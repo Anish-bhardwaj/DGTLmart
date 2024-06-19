@@ -47,4 +47,4 @@ npm start
 
 ### Live demo at https://dgt-lmart.vercel.app/
 
-<img src="https://res.cloudinary.com/doyd1dqqe/image/upload/v1718765328/Screenshot_2024-06-19_081529_q2enkq.png" height=500 width=500/>
+<img src="https://res.cloudinary.com/doyd1dqqe/image/upload/v1718765328/Screenshot_2024-06-19_081529_q2enkq.png" height=500 />
