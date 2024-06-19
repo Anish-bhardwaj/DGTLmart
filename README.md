@@ -18,7 +18,7 @@ Create a new file named `.env` in the "Backend" folder.
 In the `.env` file, define the following variables:
 
 PORT=4000
-MONGOURL="Insert Your MongoDB URL"
+MONGO_URL="Insert Your MongoDB URL"
 
 ## Step 3: Installing Backend Dependencies
 
