@@ -48,4 +48,4 @@ npm start
 ### Live demo at https://dgt-lmart.vercel.app/
 
 <img src="https://res.cloudinary.com/doyd1dqqe/image/upload/v1718765328/Screenshot_2024-06-19_081529_q2enkq.png" height=500 />
-<img src="https://res.cloudinary.com/doyd1dqqe/image/upload/v1718765328/Screenshot_2024-06-19_081529_q2enkq.png" height=500 />
+<img src="https://res.cloudinary.com/doyd1dqqe/image/upload/v1718765204/Screenshot_2024-06-19_081546_uptvs2.png" height=500 />
